@@ -1,0 +1,15 @@
+name: Stannum
+version: '0.1'
+main: xyz.vexirio.stannum.StannumMain
+api-version: '1.21'
+prefix: Stannum
+authors: [ vexirio ]
+description: Creates a client-side ambient effect using customizable particles, radius, and count
+website: https://modrinth.com/user/vexirio_was_taken
+
+commands:
+  stannum:
+    description: does bad things
+permissions:
+  stannum.admin:
+    default: op
